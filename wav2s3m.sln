@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wav2s3m", "wav2s3m\wav2s3m.csproj", "{9438948E-F40F-430B-AE58-F56C0110ADD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9438948E-F40F-430B-AE58-F56C0110ADD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9438948E-F40F-430B-AE58-F56C0110ADD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9438948E-F40F-430B-AE58-F56C0110ADD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9438948E-F40F-430B-AE58-F56C0110ADD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B17044CD-CF51-4207-BFE9-CFECA7F97EFF}
+	EndGlobalSection
+EndGlobal
